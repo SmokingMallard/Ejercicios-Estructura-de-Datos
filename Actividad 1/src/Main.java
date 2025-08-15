@@ -1,3 +1,9 @@
+/**
+* Autor: Patricio Calvo Valdés
+* Fecha: 14/08/2025
+* Descripción: Actividad 1 - Tipos de Listas
+**/
+
 import java.util.Scanner;
 
 public class Main {
