@@ -47,6 +47,19 @@ public class RecursionMenu {
     }
 
     /**
+     * Invierte una cadena de texto usando recursividad.
+     * @param s cadena a invertir
+     * @return cadena invertida
+     */
+    public static String invertirCadena(String s) {
+        if (s == null || s.length() <= 1) {
+            return s;
+        } else {
+            return invertirCadena(s.substring(1)) + s.charAt(0);
+        }
+    }
+
+    /**
      * Muestra un menú en consola para elegir entre calcular el factorial,
      * el número de Fibonacci, la suma de dígitos o salir del programa.
      * El menú se repite usando recursividad (sin bucles).
@@ -63,7 +76,9 @@ public class RecursionMenu {
         System.out.println("   Calcula el número de Fibonacci en una posición usando recursividad indirecta.");
         System.out.println("3. Sumar dígitos de un número (recursividad directa)");
         System.out.println("   Suma los dígitos de un número entero positivo usando recursividad.");
-        System.out.println("4. Salir");
+        System.out.println("4. Invertir una cadena de texto (recursividad)");
+        System.out.println("   Invierte una cadena de texto usando recursividad.");
+        System.out.println("5. Salir");
         System.out.print("Elige una opción: ");
 
         if (!sc.hasNextInt()) {
@@ -73,6 +88,7 @@ public class RecursionMenu {
             return;
         }
         int opcion = sc.nextInt();
+        sc.nextLine(); // Limpiar salto de línea pendiente
 
         switch (opcion) {
             case 1:
@@ -117,6 +133,12 @@ public class RecursionMenu {
                 mostrarMenu();
                 break;
             case 4:
+                System.out.print("Introduce una cadena de texto para invertir: ");
+                String cadena = sc.nextLine();
+                System.out.println("Cadena invertida: " + invertirCadena(cadena));
+                mostrarMenu();
+                break;
+            case 5:
                 System.out.println("¡Hasta luego!");
                 break;
             default:
