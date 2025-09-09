@@ -1,171 +1,245 @@
-Insertado valor: 80
-Insertado valor: 28
-Insertado valor: 5
-Insertado valor: 73
-Insertado valor: 30
-Insertado valor: 89
-Insertado valor: 59
-Insertado valor: 88
-Insertado valor: 61
-Insertado valor: 94
-Insertado valor: 37
-Insertado valor: 47
-Insertado valor: 99
-Insertado valor: 2
-Insertado valor: 77
-Insertado valor: 3
-Insertado valor: 7
+Insertado valor: 72
+Insertado valor: 90
+Insertado valor: 18
+Insertado valor: 98
+Insertado valor: 54
+Insertado valor: 86
 Insertado valor: 66
-Insertado valor: 32
-Insertado valor: 4
-Búsqueda de 56: NO ENCONTRADO
-Búsqueda de 95: NO ENCONTRADO
-Búsqueda de 50: NO ENCONTRADO
-Búsqueda de 12: NO ENCONTRADO
-Búsqueda de 47: ENCONTRADO
-Búsqueda de 70: NO ENCONTRADO
-Búsqueda de 37: ENCONTRADO
-Búsqueda de 67: NO ENCONTRADO
-Búsqueda de 35: NO ENCONTRADO
-Búsqueda de 68: NO ENCONTRADO
-Búsqueda de 11: NO ENCONTRADO
-Búsqueda de 4: ENCONTRADO
-Búsqueda de 23: NO ENCONTRADO
-Búsqueda de 80: ENCONTRADO
-Búsqueda de 82: NO ENCONTRADO
-Búsqueda de 51: NO ENCONTRADO
-Búsqueda de 68: NO ENCONTRADO
+Insertado valor: 40
+Insertado valor: 88
+Insertado valor: 85
+Insertado valor: 81
+Insertado valor: 3
+Insertado valor: 87
+Insertado valor: 27
+Insertado valor: 10
+Insertado valor: 5
+Insertado valor: 47
+Insertado valor: 20
+Insertado valor: 91
+Insertado valor: 18
 Búsqueda de 57: NO ENCONTRADO
-Búsqueda de 45: NO ENCONTRADO
-Búsqueda de 86: NO ENCONTRADO
-Búsqueda de 31: NO ENCONTRADO
-Búsqueda de 53: NO ENCONTRADO
-Búsqueda de 12: NO ENCONTRADO
-Búsqueda de 55: NO ENCONTRADO
-Búsqueda de 99: ENCONTRADO
-Búsqueda de 29: NO ENCONTRADO
-Búsqueda de 44: NO ENCONTRADO
-Búsqueda de 91: NO ENCONTRADO
-Búsqueda de 36: NO ENCONTRADO
-Búsqueda de 49: NO ENCONTRADO
-Búsqueda de 24: NO ENCONTRADO
-Búsqueda de 2: ENCONTRADO
-Búsqueda de 50: NO ENCONTRADO
-Búsqueda de 43: NO ENCONTRADO
-Búsqueda de 7: ENCONTRADO
-Búsqueda de 92: NO ENCONTRADO
+Búsqueda de 62: NO ENCONTRADO
 Búsqueda de 79: NO ENCONTRADO
-Búsqueda de 69: NO ENCONTRADO
-Búsqueda de 95: NO ENCONTRADO
-Búsqueda de 47: ENCONTRADO
-Búsqueda de 26: NO ENCONTRADO
-Búsqueda de 92: NO ENCONTRADO
-Búsqueda de 12: NO ENCONTRADO
-Búsqueda de 44: NO ENCONTRADO
-Búsqueda de 90: NO ENCONTRADO
-Búsqueda de 17: NO ENCONTRADO
-Búsqueda de 50: NO ENCONTRADO
-Búsqueda de 80: ENCONTRADO
-Búsqueda de 41: NO ENCONTRADO
-Búsqueda de 47: ENCONTRADO
-Búsqueda de 31: NO ENCONTRADO
-Búsqueda de 19: NO ENCONTRADO
-Búsqueda de 83: NO ENCONTRADO
-Búsqueda de 8: NO ENCONTRADO
-Búsqueda de 97: NO ENCONTRADO
-Búsqueda de 12: NO ENCONTRADO
-Búsqueda de 24: NO ENCONTRADO
-Búsqueda de 68: NO ENCONTRADO
-Búsqueda de 72: NO ENCONTRADO
-Búsqueda de 75: NO ENCONTRADO
-Búsqueda de 33: NO ENCONTRADO
-Búsqueda de 72: NO ENCONTRADO
-Búsqueda de 81: NO ENCONTRADO
-Búsqueda de 1: NO ENCONTRADO
-Búsqueda de 69: NO ENCONTRADO
-Búsqueda de 16: NO ENCONTRADO
-Búsqueda de 16: NO ENCONTRADO
+Búsqueda de 99: NO ENCONTRADO
+Búsqueda de 67: NO ENCONTRADO
 Búsqueda de 51: NO ENCONTRADO
-Búsqueda de 47: ENCONTRADO
-Búsqueda de 98: NO ENCONTRADO
-Búsqueda de 12: NO ENCONTRADO
-Búsqueda de 33: NO ENCONTRADO
-Búsqueda de 8: NO ENCONTRADO
-Búsqueda de 44: NO ENCONTRADO
-Búsqueda de 33: NO ENCONTRADO
+Búsqueda de 24: NO ENCONTRADO
+Búsqueda de 57: NO ENCONTRADO
+Búsqueda de 2: NO ENCONTRADO
+Búsqueda de 41: NO ENCONTRADO
 Búsqueda de 39: NO ENCONTRADO
-Búsqueda de 98: NO ENCONTRADO
+Búsqueda de 42: NO ENCONTRADO
+Búsqueda de 74: NO ENCONTRADO
+Búsqueda de 56: NO ENCONTRADO
+Búsqueda de 86: ENCONTRADO
+Búsqueda de 76: NO ENCONTRADO
+Búsqueda de 49: NO ENCONTRADO
+Búsqueda de 25: NO ENCONTRADO
+Búsqueda de 98: ENCONTRADO
+Búsqueda de 56: NO ENCONTRADO
 Búsqueda de 45: NO ENCONTRADO
-Búsqueda de 41: NO ENCONTRADO
-Búsqueda de 17: NO ENCONTRADO
-Búsqueda de 94: ENCONTRADO
-Búsqueda de 53: NO ENCONTRADO
+Búsqueda de 66: ENCONTRADO
+Búsqueda de 99: NO ENCONTRADO
 Búsqueda de 44: NO ENCONTRADO
-Búsqueda de 96: NO ENCONTRADO
-Búsqueda de 36: NO ENCONTRADO
-Búsqueda de 56: NO ENCONTRADO
-Búsqueda de 58: NO ENCONTRADO
-Búsqueda de 65: NO ENCONTRADO
-Búsqueda de 46: NO ENCONTRADO
-Búsqueda de 16: NO ENCONTRADO
-Búsqueda de 39: NO ENCONTRADO
-Búsqueda de 54: NO ENCONTRADO
-Búsqueda de 69: NO ENCONTRADO
-Búsqueda de 23: NO ENCONTRADO
-Búsqueda de 40: NO ENCONTRADO
-Búsqueda de 97: NO ENCONTRADO
-Búsqueda de 65: NO ENCONTRADO
-Búsqueda de 70: NO ENCONTRADO
-Búsqueda de 61: ENCONTRADO
-Búsqueda de 64: NO ENCONTRADO
-Búsqueda de 86: NO ENCONTRADO
-Búsqueda de 41: NO ENCONTRADO
-Búsqueda de 3: ENCONTRADO
-Búsqueda de 63: NO ENCONTRADO
+Búsqueda de 52: NO ENCONTRADO
+Búsqueda de 52: NO ENCONTRADO
+Búsqueda de 29: NO ENCONTRADO
+Búsqueda de 7: NO ENCONTRADO
+Búsqueda de 9: NO ENCONTRADO
+Búsqueda de 61: NO ENCONTRADO
+Búsqueda de 32: NO ENCONTRADO
+Búsqueda de 52: NO ENCONTRADO
+Búsqueda de 88: ENCONTRADO
+Búsqueda de 100: NO ENCONTRADO
+Búsqueda de 60: NO ENCONTRADO
+Búsqueda de 74: NO ENCONTRADO
 Búsqueda de 75: NO ENCONTRADO
+Búsqueda de 21: NO ENCONTRADO
+Búsqueda de 79: NO ENCONTRADO
+Búsqueda de 53: NO ENCONTRADO
+Búsqueda de 53: NO ENCONTRADO
+Búsqueda de 47: ENCONTRADO
+Búsqueda de 57: NO ENCONTRADO
+Búsqueda de 7: NO ENCONTRADO
 Búsqueda de 41: NO ENCONTRADO
-Búsqueda de 43: NO ENCONTRADO
-Búsqueda de 13: NO ENCONTRADO
-Búsqueda de 63: NO ENCONTRADO
-Búsqueda de 64: NO ENCONTRADO
-Búsqueda de 60: NO ENCONTRADO
-Búsqueda de 14: NO ENCONTRADO
-Búsqueda de 7: ENCONTRADO
-Búsqueda de 33: NO ENCONTRADO
-Búsqueda de 78: NO ENCONTRADO
-Búsqueda de 50: NO ENCONTRADO
-Búsqueda de 55: NO ENCONTRADO
+Búsqueda de 84: NO ENCONTRADO
 Búsqueda de 19: NO ENCONTRADO
-Búsqueda de 72: NO ENCONTRADO
-Búsqueda de 60: NO ENCONTRADO
-Búsqueda de 61: ENCONTRADO
-Búsqueda de 92: NO ENCONTRADO
-Búsqueda de 53: NO ENCONTRADO
-Búsqueda de 82: NO ENCONTRADO
-Búsqueda de 20: NO ENCONTRADO
-Búsqueda de 2: ENCONTRADO
-Búsqueda de 83: NO ENCONTRADO
-Búsqueda de 80: ENCONTRADO
-Búsqueda de 82: NO ENCONTRADO
-Búsqueda de 94: ENCONTRADO
-Búsqueda de 77: ENCONTRADO
-Búsqueda de 56: NO ENCONTRADO
+Búsqueda de 41: NO ENCONTRADO
+Búsqueda de 9: NO ENCONTRADO
+Búsqueda de 71: NO ENCONTRADO
+Búsqueda de 32: NO ENCONTRADO
+Búsqueda de 28: NO ENCONTRADO
+Búsqueda de 44: NO ENCONTRADO
+Búsqueda de 61: NO ENCONTRADO
+Búsqueda de 52: NO ENCONTRADO
+Búsqueda de 65: NO ENCONTRADO
+Búsqueda de 50: NO ENCONTRADO
 Búsqueda de 70: NO ENCONTRADO
+Búsqueda de 82: NO ENCONTRADO
+Búsqueda de 97: NO ENCONTRADO
+Búsqueda de 22: NO ENCONTRADO
+Búsqueda de 8: NO ENCONTRADO
+Búsqueda de 9: NO ENCONTRADO
+Búsqueda de 23: NO ENCONTRADO
+Búsqueda de 90: ENCONTRADO
 Búsqueda de 6: NO ENCONTRADO
-Búsqueda de 56: NO ENCONTRADO
-Búsqueda de 24: NO ENCONTRADO
-Búsqueda de 78: NO ENCONTRADO
+Búsqueda de 95: NO ENCONTRADO
 Búsqueda de 48: NO ENCONTRADO
-Búsqueda de 37: ENCONTRADO
+Búsqueda de 87: ENCONTRADO
+Búsqueda de 7: NO ENCONTRADO
 Búsqueda de 51: NO ENCONTRADO
-Búsqueda de 48: NO ENCONTRADO
-Búsqueda de 54: NO ENCONTRADO
-Búsqueda de 49: NO ENCONTRADO
-Búsqueda de 59: ENCONTRADO
+Búsqueda de 88: ENCONTRADO
+Búsqueda de 80: NO ENCONTRADO
+Búsqueda de 11: NO ENCONTRADO
+Búsqueda de 33: NO ENCONTRADO
+Búsqueda de 86: ENCONTRADO
+Búsqueda de 70: NO ENCONTRADO
+Búsqueda de 71: NO ENCONTRADO
+Búsqueda de 8: NO ENCONTRADO
+Búsqueda de 58: NO ENCONTRADO
+Búsqueda de 6: NO ENCONTRADO
+Búsqueda de 99: NO ENCONTRADO
+Búsqueda de 64: NO ENCONTRADO
+Búsqueda de 41: NO ENCONTRADO
+Búsqueda de 55: NO ENCONTRADO
+Búsqueda de 28: NO ENCONTRADO
+Búsqueda de 82: NO ENCONTRADO
+Búsqueda de 39: NO ENCONTRADO
+Búsqueda de 54: ENCONTRADO
+Búsqueda de 88: ENCONTRADO
+Búsqueda de 86: ENCONTRADO
+Búsqueda de 28: NO ENCONTRADO
+Búsqueda de 100: NO ENCONTRADO
+Búsqueda de 7: NO ENCONTRADO
+Búsqueda de 40: ENCONTRADO
+Búsqueda de 83: NO ENCONTRADO
+Búsqueda de 99: NO ENCONTRADO
+Búsqueda de 62: NO ENCONTRADO
+Búsqueda de 99: NO ENCONTRADO
+Búsqueda de 51: NO ENCONTRADO
+Búsqueda de 81: ENCONTRADO
+Búsqueda de 71: NO ENCONTRADO
+Búsqueda de 38: NO ENCONTRADO
+Búsqueda de 89: NO ENCONTRADO
+Búsqueda de 47: ENCONTRADO
+Búsqueda de 76: NO ENCONTRADO
 Búsqueda de 15: NO ENCONTRADO
-Búsqueda de 49: NO ENCONTRADO
+Búsqueda de 21: NO ENCONTRADO
+Búsqueda de 62: NO ENCONTRADO
+Búsqueda de 95: NO ENCONTRADO
+Búsqueda de 90: ENCONTRADO
+Búsqueda de 3: ENCONTRADO
+Búsqueda de 48: NO ENCONTRADO
+Búsqueda de 47: ENCONTRADO
+Búsqueda de 12: NO ENCONTRADO
+Búsqueda de 45: NO ENCONTRADO
+Búsqueda de 57: NO ENCONTRADO
+Búsqueda de 82: NO ENCONTRADO
+Búsqueda de 71: NO ENCONTRADO
+Búsqueda de 81: ENCONTRADO
+Búsqueda de 68: NO ENCONTRADO
+Búsqueda de 94: NO ENCONTRADO
+Búsqueda de 99: NO ENCONTRADO
+Búsqueda de 39: NO ENCONTRADO
+Búsqueda de 14: NO ENCONTRADO
+Búsqueda de 47: ENCONTRADO
+Búsqueda de 38: NO ENCONTRADO
+Búsqueda de 65: NO ENCONTRADO
+Búsqueda de 15: NO ENCONTRADO
+Búsqueda de 26: NO ENCONTRADO
+Búsqueda de 79: NO ENCONTRADO
+Búsqueda de 13: NO ENCONTRADO
+Búsqueda de 37: NO ENCONTRADO
+Búsqueda de 89: NO ENCONTRADO
+Búsqueda de 48: NO ENCONTRADO
+Búsqueda de 29: NO ENCONTRADO
+Búsqueda de 77: NO ENCONTRADO
+Búsqueda de 51: NO ENCONTRADO
+Búsqueda de 100: NO ENCONTRADO
+Búsqueda de 63: NO ENCONTRADO
+Búsqueda de 80: NO ENCONTRADO
+Búsqueda de 27: ENCONTRADO
+Búsqueda de 1: NO ENCONTRADO
+Búsqueda de 7: NO ENCONTRADO
+Búsqueda de 10: ENCONTRADO
+Búsqueda de 85: ENCONTRADO
+Búsqueda de 79: NO ENCONTRADO
+Búsqueda de 65: NO ENCONTRADO
+Búsqueda de 11: NO ENCONTRADO
+Búsqueda de 15: NO ENCONTRADO
+Búsqueda de 13: NO ENCONTRADO
+Búsqueda de 7: NO ENCONTRADO
+Búsqueda de 28: NO ENCONTRADO
+Búsqueda de 48: NO ENCONTRADO
+Búsqueda de 48: NO ENCONTRADO
+Búsqueda de 92: NO ENCONTRADO
+Búsqueda de 81: ENCONTRADO
+Búsqueda de 43: NO ENCONTRADO
+Búsqueda de 54: ENCONTRADO
 Búsqueda de 5: ENCONTRADO
-Búsqueda de 53: NO ENCONTRADO
-Búsqueda de 85: NO ENCONTRADO
-Búsqueda de 94: ENCONTRADO
-Búsqueda de 89: ENCONTRADO
+Búsqueda de 37: NO ENCONTRADO
+Búsqueda de 56: NO ENCONTRADO
+Búsqueda de 29: NO ENCONTRADO
+Búsqueda de 33: NO ENCONTRADO
+Búsqueda de 62: NO ENCONTRADO
+Búsqueda de 47: ENCONTRADO
+Búsqueda de 67: NO ENCONTRADO
+Búsqueda de 40: ENCONTRADO
+Búsqueda de 96: NO ENCONTRADO
+Búsqueda de 56: NO ENCONTRADO
+Búsqueda de 26: NO ENCONTRADO
+Búsqueda de 36: NO ENCONTRADO
+Búsqueda de 4: NO ENCONTRADO
+Búsqueda de 12: NO ENCONTRADO
+Búsqueda de 84: NO ENCONTRADO
+Búsqueda de 31: NO ENCONTRADO
+Búsqueda de 58: NO ENCONTRADO
+Búsqueda de 14: NO ENCONTRADO
+Búsqueda de 73: NO ENCONTRADO
+Búsqueda de 73: NO ENCONTRADO
+Búsqueda de 84: NO ENCONTRADO
+Búsqueda de 88: ENCONTRADO
+Búsqueda de 56: NO ENCONTRADO
+Búsqueda de 31: NO ENCONTRADO
+Búsqueda de 54: ENCONTRADO
+Búsqueda de 29: NO ENCONTRADO
+Búsqueda de 13: NO ENCONTRADO
+Búsqueda de 98: ENCONTRADO
+Búsqueda de 4: NO ENCONTRADO
+Búsqueda de 39: NO ENCONTRADO
+Búsqueda de 46: NO ENCONTRADO
+Búsqueda de 78: NO ENCONTRADO
+Búsqueda de 23: NO ENCONTRADO
+Búsqueda de 70: NO ENCONTRADO
+Búsqueda de 69: NO ENCONTRADO
+Búsqueda de 42: NO ENCONTRADO
+Búsqueda de 16: NO ENCONTRADO
+Búsqueda de 19: NO ENCONTRADO
+Búsqueda de 61: NO ENCONTRADO
+Búsqueda de 13: NO ENCONTRADO
+Búsqueda de 46: NO ENCONTRADO
+Búsqueda de 27: ENCONTRADO
+Búsqueda de 59: NO ENCONTRADO
+Búsqueda de 84: NO ENCONTRADO
+Búsqueda de 99: NO ENCONTRADO
+Búsqueda de 24: NO ENCONTRADO
+Búsqueda de 52: NO ENCONTRADO
+Búsqueda de 34: NO ENCONTRADO
+Búsqueda de 50: NO ENCONTRADO
+Búsqueda de 22: NO ENCONTRADO
+Búsqueda de 58: NO ENCONTRADO
+Búsqueda de 81: ENCONTRADO
+Búsqueda de 16: NO ENCONTRADO
+Búsqueda de 72: ENCONTRADO
+Búsqueda de 6: NO ENCONTRADO
+Búsqueda de 46: NO ENCONTRADO
+Búsqueda de 30: NO ENCONTRADO
+Búsqueda de 6: NO ENCONTRADO
+Búsqueda de 74: NO ENCONTRADO
+Búsqueda de 25: NO ENCONTRADO
+Búsqueda de 27: ENCONTRADO
+Búsqueda de 7: NO ENCONTRADO
+Búsqueda de 23: NO ENCONTRADO
+Búsqueda de 24: NO ENCONTRADO
+Búsqueda de 91: ENCONTRADO

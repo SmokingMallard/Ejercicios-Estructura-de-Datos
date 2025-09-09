@@ -1,11 +1,21 @@
-Insertado valor: 81
-Insertado valor: 87
-Insertado valor: 69
-Insertado valor: 82
+Insertado valor: 83
+Insertado valor: 71
+Insertado valor: 86
+Insertado valor: 72
+Insertado valor: 77
 Insertado valor: 84
-Insertado valor: 89
-Insertado valor: 85
+Insertado valor: 90
+Insertado valor: 81
 Insertado valor: 73
-Insertado valor: 79
+Insertado valor: 72
 Insertado valor: 80
-Búsqueda de 87: ENCONTRADO
+Insertado valor: 84
+Insertado valor: 78
+Insertado valor: 77
+Insertado valor: 90
+Insertado valor: 67
+Insertado valor: 69
+Insertado valor: 78
+Insertado valor: 89
+Insertado valor: 66
+Búsqueda de 77: ENCONTRADO

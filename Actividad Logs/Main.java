@@ -69,19 +69,24 @@ public class Main {
     private static void ejercicioNombresAlumnos(Scanner sc) {
         try {
             ArbolBinarioBusqueda arbol = new ArbolBinarioBusqueda("log_ej2.txt");
-            System.out.print("¿Cuántos alumnos desea ingresar? ");
-            int n = sc.nextInt();
-            sc.nextLine();
-            String[] nombres = new String[n];
-            for (int i = 0; i < n; i++) {
-                System.out.print("Nombre del alumno " + (i + 1) + ": ");
-                nombres[i] = sc.nextLine();
-                arbol.insertar(nombres[i].hashCode());
+            Random rand = new Random();
+            char[] letras = new char[20];
+            System.out.print("Letras generadas: ");
+            for (int i = 0; i < 20; i++) {
+                letras[i] = (char) (rand.nextInt(26) + 'A'); // Letras mayúsculas aleatorias
+                System.out.print(letras[i] + " ");
+                arbol.insertar((int) letras[i]);
             }
-            System.out.print("Ingrese el nombre a buscar: ");
-            String buscar = sc.nextLine();
-            boolean encontrado = arbol.buscar(buscar.hashCode());
-            System.out.println(encontrado ? "Alumno encontrado." : "Alumno NO encontrado.");
+            System.out.println();
+
+            System.out.print("Ingrese la letra a buscar: ");
+            String buscar = sc.nextLine().toUpperCase();
+            if (buscar.length() != 1 || buscar.charAt(0) < 'A' || buscar.charAt(0) > 'Z') {
+                System.out.println("Entrada inválida. Debe ser una sola letra A-Z.");
+            } else {
+                boolean encontrado = arbol.buscar((int) buscar.charAt(0));
+                System.out.println(encontrado ? "Alumno encontrado." : "Alumno NO encontrado.");
+            }
             arbol.cerrarLog();
         } catch (IOException e) {
             System.out.println("Error en el log: " + e.getMessage());
@@ -91,19 +96,24 @@ public class Main {
     // Ejercicio 3
     private static void ejercicioAniosNacimiento() {
         try {
-            Scanner sc = new Scanner(System.in);
             ArbolBinarioBusqueda arbol = new ArbolBinarioBusqueda("log_ej3.txt");
-            int[] anios = new int[10];
+            Random rand = new Random();
+            int[] anios = new int[20];
             int contador1990 = 0;
 
-            for (int i = 0; i < 10; i++) {
-                System.out.print("Ingrese el año de nacimiento de la persona " + (i + 1) + ": ");
-                anios[i] = sc.nextInt();
+            for (int i = 0; i < 20; i++) {
+                anios[i] = rand.nextInt(1996 - 1990) + 1990; // Aleatorio entre 1990 y 1995
                 arbol.insertar(anios[i]);
                 if (anios[i] == 1990) {
                     contador1990++;
                 }
             }
+
+            System.out.print("Años generados: ");
+            for (int anio : anios) {
+                System.out.print(anio + " ");
+            }
+            System.out.println();
 
             if (contador1990 > 0) {
                 System.out.println("Cantidad de personas que nacieron en 1990: " + contador1990);
